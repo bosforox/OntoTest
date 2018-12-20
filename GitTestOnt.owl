@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#"
+     xml:base="http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/date -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/date"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLObjectProperty_1124fc51_483a_46b0_b81a_37878755779b -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLObjectProperty_1124fc51_483a_46b0_b81a_37878755779b">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-12-20T11:40:34Z</dc:date>
+        <rdfs:label xml:lang="en">objPro3</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLObjectProperty_1b17ae7f_2cb0_44b3_8567_741cbf4c0787 -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLObjectProperty_1b17ae7f_2cb0_44b3_8567_741cbf4c0787">
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-12-20T11:40:04Z</dc:date>
+        <rdfs:label xml:lang="en">objPro1</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLObjectProperty_9130ffdb_510e_4d2a_ac57_bb6400c999e2 -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLObjectProperty_9130ffdb_510e_4d2a_ac57_bb6400c999e2">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-12-20T11:40:16Z</dc:date>
+        <rdfs:label xml:lang="en">objPro2</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLDataProperty_726e9ed2_0020_47df_b61c_b467e172f98b -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLDataProperty_726e9ed2_0020_47df_b61c_b467e172f98b">
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-12-20T11:40:44Z</dc:date>
+        <rdfs:label xml:lang="en">dataPro1</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLDataProperty_aa7c5472_e4b7_4030_bbc0_f37816106bdf -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLDataProperty_aa7c5472_e4b7_4030_bbc0_f37816106bdf">
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-12-20T11:40:50Z</dc:date>
+        <rdfs:label xml:lang="en">dataPro2</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_164d6ec8_a08b_4be5_b2d9_034f2e565594 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_164d6ec8_a08b_4be5_b2d9_034f2e565594">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_e7172a8c_026d_4e1e_90e9_442e217995aa"/>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-12-20T11:39:37Z</dc:date>
+        <rdfs:label xml:lang="en">Subclass2</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_8a5b7269_fcbe_434e_aa4d_598d38062d65 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_8a5b7269_fcbe_434e_aa4d_598d38062d65">
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-12-20T11:39:00Z</dc:date>
+        <rdfs:label xml:lang="en">UpperClass</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_afaa9014_e13c_4348_880e_9d4c5070e91c -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_afaa9014_e13c_4348_880e_9d4c5070e91c">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_e7172a8c_026d_4e1e_90e9_442e217995aa"/>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-12-20T11:39:26Z</dc:date>
+        <rdfs:label xml:lang="en">SubClass1</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_e7172a8c_026d_4e1e_90e9_442e217995aa -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_e7172a8c_026d_4e1e_90e9_442e217995aa">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_8a5b7269_fcbe_434e_aa4d_598d38062d65"/>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-12-20T11:39:15Z</dc:date>
+        <rdfs:label xml:lang="en">MiddleClass</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLNamedIndividual_007ba003_f5ee_43bb_b164_82b638b1431d -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLNamedIndividual_007ba003_f5ee_43bb_b164_82b638b1431d">
+        <rdf:type rdf:resource="http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_164d6ec8_a08b_4be5_b2d9_034f2e565594"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_afaa9014_e13c_4348_880e_9d4c5070e91c"/>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-12-20T11:41:03Z</dc:date>
+        <rdfs:label xml:lang="en">ind2</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLNamedIndividual_3488e44a_8f45_461f_bb65_b66795237148 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLNamedIndividual_3488e44a_8f45_461f_bb65_b66795237148">
+        <rdf:type rdf:resource="http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_164d6ec8_a08b_4be5_b2d9_034f2e565594"/>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-12-20T11:41:10Z</dc:date>
+        <rdfs:label xml:lang="en">ind3</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLNamedIndividual_4335f166_62da_42b6_bd7a_d6086feac7b9 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLNamedIndividual_4335f166_62da_42b6_bd7a_d6086feac7b9">
+        <rdf:type rdf:resource="http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_afaa9014_e13c_4348_880e_9d4c5070e91c"/>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-12-20T11:41:00Z</dc:date>
+        <rdfs:label xml:lang="en">ind1</rdfs:label>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+
