@@ -1,0 +1,7 @@
+digraph ar2dtool_diagram { 
+rankdir=LR;
+size="1501"
+	"base:OWLObjectProperty_9130ffdb_510e_4d2a_ac57_bb6400c999e2" -> "owl:topObjectProperty" [ label = "rdfs:subPropertyOf" ];
+	"base:OWLObjectProperty_1124fc51_483a_46b0_b81a_37878755779b" -> "owl:topObjectProperty" [ label = "rdfs:subPropertyOf" ];
+
+}

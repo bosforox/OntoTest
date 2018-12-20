@@ -1,0 +1,9 @@
+digraph ar2dtool_diagram { 
+rankdir=LR;
+size="1000"
+node [shape = rectangle, color="black"]; "base:OWLClass_e7172a8c_026d_4e1e_90e9_442e217995aa" "base:OWLClass_afaa9014_e13c_4348_880e_9d4c5070e91c" "base:OWLClass_8a5b7269_fcbe_434e_aa4d_598d38062d65" "base:OWLClass_164d6ec8_a08b_4be5_b2d9_034f2e565594" ; /*classes style*/
+	"base:OWLClass_e7172a8c_026d_4e1e_90e9_442e217995aa" -> "base:OWLClass_8a5b7269_fcbe_434e_aa4d_598d38062d65" [ label = "rdfs:subClassOf" ];
+	"base:OWLClass_164d6ec8_a08b_4be5_b2d9_034f2e565594" -> "base:OWLClass_e7172a8c_026d_4e1e_90e9_442e217995aa" [ label = "rdfs:subClassOf" ];
+	"base:OWLClass_afaa9014_e13c_4348_880e_9d4c5070e91c" -> "base:OWLClass_e7172a8c_026d_4e1e_90e9_442e217995aa" [ label = "rdfs:subClassOf" ];
+
+}

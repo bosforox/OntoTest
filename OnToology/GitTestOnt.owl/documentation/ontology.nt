@@ -1,0 +1,119 @@
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
+# 
+# 
+# #################################################################
+# #
+# #    Annotation properties
+# #
+# #################################################################
+# 
+# 
+# http://purl.org/dc/elements/1.1/date
+<http://purl.org/dc/elements/1.1/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# 
+# 
+# #################################################################
+# #
+# #    Object Properties
+# #
+# #################################################################
+# 
+# 
+# http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLObjectProperty_1124fc51_483a_46b0_b81a_37878755779b
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLObjectProperty_1124fc51_483a_46b0_b81a_37878755779b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLObjectProperty_1124fc51_483a_46b0_b81a_37878755779b> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#topObjectProperty> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLObjectProperty_1124fc51_483a_46b0_b81a_37878755779b> <http://purl.org/dc/elements/1.1/date> "2018-12-20T11:40:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLObjectProperty_1124fc51_483a_46b0_b81a_37878755779b> <http://www.w3.org/2000/01/rdf-schema#label> "objPro3"@en .
+# 
+# http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLObjectProperty_1b17ae7f_2cb0_44b3_8567_741cbf4c0787
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLObjectProperty_1b17ae7f_2cb0_44b3_8567_741cbf4c0787> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLObjectProperty_1b17ae7f_2cb0_44b3_8567_741cbf4c0787> <http://purl.org/dc/elements/1.1/date> "2018-12-20T11:40:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLObjectProperty_1b17ae7f_2cb0_44b3_8567_741cbf4c0787> <http://www.w3.org/2000/01/rdf-schema#label> "objPro1"@en .
+# 
+# http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLObjectProperty_9130ffdb_510e_4d2a_ac57_bb6400c999e2
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLObjectProperty_9130ffdb_510e_4d2a_ac57_bb6400c999e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLObjectProperty_9130ffdb_510e_4d2a_ac57_bb6400c999e2> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#topObjectProperty> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLObjectProperty_9130ffdb_510e_4d2a_ac57_bb6400c999e2> <http://purl.org/dc/elements/1.1/date> "2018-12-20T11:40:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLObjectProperty_9130ffdb_510e_4d2a_ac57_bb6400c999e2> <http://www.w3.org/2000/01/rdf-schema#label> "objPro2"@en .
+# 
+# 
+# 
+# #################################################################
+# #
+# #    Data properties
+# #
+# #################################################################
+# 
+# 
+# http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLDataProperty_726e9ed2_0020_47df_b61c_b467e172f98b
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLDataProperty_726e9ed2_0020_47df_b61c_b467e172f98b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLDataProperty_726e9ed2_0020_47df_b61c_b467e172f98b> <http://purl.org/dc/elements/1.1/date> "2018-12-20T11:40:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLDataProperty_726e9ed2_0020_47df_b61c_b467e172f98b> <http://www.w3.org/2000/01/rdf-schema#label> "dataPro1"@en .
+# 
+# http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLDataProperty_aa7c5472_e4b7_4030_bbc0_f37816106bdf
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLDataProperty_aa7c5472_e4b7_4030_bbc0_f37816106bdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLDataProperty_aa7c5472_e4b7_4030_bbc0_f37816106bdf> <http://purl.org/dc/elements/1.1/date> "2018-12-20T11:40:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLDataProperty_aa7c5472_e4b7_4030_bbc0_f37816106bdf> <http://www.w3.org/2000/01/rdf-schema#label> "dataPro2"@en .
+# 
+# 
+# 
+# #################################################################
+# #
+# #    Classes
+# #
+# #################################################################
+# 
+# 
+# http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_164d6ec8_a08b_4be5_b2d9_034f2e565594
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_164d6ec8_a08b_4be5_b2d9_034f2e565594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_164d6ec8_a08b_4be5_b2d9_034f2e565594> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_e7172a8c_026d_4e1e_90e9_442e217995aa> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_164d6ec8_a08b_4be5_b2d9_034f2e565594> <http://purl.org/dc/elements/1.1/date> "2018-12-20T11:39:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_164d6ec8_a08b_4be5_b2d9_034f2e565594> <http://www.w3.org/2000/01/rdf-schema#label> "Subclass2"@en .
+# 
+# http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_8a5b7269_fcbe_434e_aa4d_598d38062d65
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_8a5b7269_fcbe_434e_aa4d_598d38062d65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_8a5b7269_fcbe_434e_aa4d_598d38062d65> <http://purl.org/dc/elements/1.1/date> "2018-12-20T11:39:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_8a5b7269_fcbe_434e_aa4d_598d38062d65> <http://www.w3.org/2000/01/rdf-schema#label> "UpperClass"@en .
+# 
+# http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_afaa9014_e13c_4348_880e_9d4c5070e91c
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_afaa9014_e13c_4348_880e_9d4c5070e91c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_afaa9014_e13c_4348_880e_9d4c5070e91c> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_e7172a8c_026d_4e1e_90e9_442e217995aa> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_afaa9014_e13c_4348_880e_9d4c5070e91c> <http://purl.org/dc/elements/1.1/date> "2018-12-20T11:39:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_afaa9014_e13c_4348_880e_9d4c5070e91c> <http://www.w3.org/2000/01/rdf-schema#label> "SubClass1"@en .
+# 
+# http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_e7172a8c_026d_4e1e_90e9_442e217995aa
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_e7172a8c_026d_4e1e_90e9_442e217995aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_e7172a8c_026d_4e1e_90e9_442e217995aa> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_8a5b7269_fcbe_434e_aa4d_598d38062d65> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_e7172a8c_026d_4e1e_90e9_442e217995aa> <http://purl.org/dc/elements/1.1/date> "2018-12-20T11:39:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_e7172a8c_026d_4e1e_90e9_442e217995aa> <http://www.w3.org/2000/01/rdf-schema#label> "MiddleClass"@en .
+# 
+# 
+# 
+# #################################################################
+# #
+# #    Individuals
+# #
+# #################################################################
+# 
+# 
+# http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLNamedIndividual_007ba003_f5ee_43bb_b164_82b638b1431d
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLNamedIndividual_007ba003_f5ee_43bb_b164_82b638b1431d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLNamedIndividual_007ba003_f5ee_43bb_b164_82b638b1431d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_164d6ec8_a08b_4be5_b2d9_034f2e565594> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLNamedIndividual_007ba003_f5ee_43bb_b164_82b638b1431d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_afaa9014_e13c_4348_880e_9d4c5070e91c> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLNamedIndividual_007ba003_f5ee_43bb_b164_82b638b1431d> <http://purl.org/dc/elements/1.1/date> "2018-12-20T11:41:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLNamedIndividual_007ba003_f5ee_43bb_b164_82b638b1431d> <http://www.w3.org/2000/01/rdf-schema#label> "ind2"@en .
+# 
+# http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLNamedIndividual_3488e44a_8f45_461f_bb65_b66795237148
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLNamedIndividual_3488e44a_8f45_461f_bb65_b66795237148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLNamedIndividual_3488e44a_8f45_461f_bb65_b66795237148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_164d6ec8_a08b_4be5_b2d9_034f2e565594> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLNamedIndividual_3488e44a_8f45_461f_bb65_b66795237148> <http://purl.org/dc/elements/1.1/date> "2018-12-20T11:41:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLNamedIndividual_3488e44a_8f45_461f_bb65_b66795237148> <http://www.w3.org/2000/01/rdf-schema#label> "ind3"@en .
+# 
+# http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLNamedIndividual_4335f166_62da_42b6_bd7a_d6086feac7b9
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLNamedIndividual_4335f166_62da_42b6_bd7a_d6086feac7b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLNamedIndividual_4335f166_62da_42b6_bd7a_d6086feac7b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_afaa9014_e13c_4348_880e_9d4c5070e91c> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLNamedIndividual_4335f166_62da_42b6_bd7a_d6086feac7b9> <http://purl.org/dc/elements/1.1/date> "2018-12-20T11:41:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLNamedIndividual_4335f166_62da_42b6_bd7a_d6086feac7b9> <http://www.w3.org/2000/01/rdf-schema#label> "ind1"@en .
+# 
+# Generated by the OWL API (version 5.1.7) https://github.com/owlcs/owlapi/
