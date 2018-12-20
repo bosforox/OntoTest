@@ -1,0 +1,44 @@
+{
+  "@context" : {
+    "OWLObjectProperty_1b17ae7f_2cb0_44b3_8567_741cbf4c0787" : {
+      "@id" : "http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLObjectProperty_1b17ae7f_2cb0_44b3_8567_741cbf4c0787",
+      "@type" : "@id"
+    },
+    "label" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#label"
+    },
+    "OWLClass_8a5b7269_fcbe_434e_aa4d_598d38062d65" : {
+      "@id" : "http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_8a5b7269_fcbe_434e_aa4d_598d38062d65"
+    },
+    "OWLClass_afaa9014_e13c_4348_880e_9d4c5070e91c" : {
+      "@id" : "http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_afaa9014_e13c_4348_880e_9d4c5070e91c"
+    },
+    "topObjectProperty" : {
+      "@id" : "http://www.w3.org/2002/07/owl#topObjectProperty",
+      "@type" : "@id"
+    },
+    "OWLObjectProperty_9130ffdb_510e_4d2a_ac57_bb6400c999e2" : {
+      "@id" : "http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLObjectProperty_9130ffdb_510e_4d2a_ac57_bb6400c999e2",
+      "@type" : "@id"
+    },
+    "OWLClass_e7172a8c_026d_4e1e_90e9_442e217995aa" : {
+      "@id" : "http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_e7172a8c_026d_4e1e_90e9_442e217995aa"
+    },
+    "date" : {
+      "@id" : "http://purl.org/dc/elements/1.1/date"
+    },
+    "OWLObjectProperty_1124fc51_483a_46b0_b81a_37878755779b" : {
+      "@id" : "http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLObjectProperty_1124fc51_483a_46b0_b81a_37878755779b",
+      "@type" : "@id"
+    },
+    "OWLDataProperty_aa7c5472_e4b7_4030_bbc0_f37816106bdf" : {
+      "@id" : "http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLDataProperty_aa7c5472_e4b7_4030_bbc0_f37816106bdf"
+    },
+    "OWLClass_164d6ec8_a08b_4be5_b2d9_034f2e565594" : {
+      "@id" : "http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLClass_164d6ec8_a08b_4be5_b2d9_034f2e565594"
+    },
+    "OWLDataProperty_726e9ed2_0020_47df_b61c_b467e172f98b" : {
+      "@id" : "http://www.semanticweb.org/yxl/ontologies/2018/11/20/untitled-ontology-255#OWLDataProperty_726e9ed2_0020_47df_b61c_b467e172f98b"
+    }
+  }
+}
